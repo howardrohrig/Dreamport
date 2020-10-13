@@ -1,0 +1,82 @@
+
+.camF {background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../Images/Resorts/camF.jpg');}
+.allM {background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../Images/Resorts/allM.jpg');}
+.allMu {background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../Images/Resorts/allMu.jpg');}
+.allS {background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../Images/Resorts/allS.jpg');}
+.popC {background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../Images/Resorts/popC.jpg');}
+.artA {background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../Images/Resorts/artA.jpg');}
+.corS {background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../Images/Resorts/corS.jpg');}
+.freQ {background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../Images/Resorts/freQ.jpg');}
+.rivS {background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../Images/Resorts/rivS.jpg');}
+.carB {background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../Images/Resorts/carB.jpg');}
+.rivR {background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../Images/Resorts/rivR.jpg');}
+.cabF {background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../Images/Resorts/cabF.jpg');}
+.wilL {background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../Images/Resorts/wilL.jpg');}
+.sarS {background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../Images/Resorts/sarS.jpg');}
+.graF {background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../Images/Resorts/graF.jpg');}
+.aniL {background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../Images/Resorts/aniL.jpg');}
+.polV {background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../Images/Resorts/polV.jpg');}
+.oldK {background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../Images/Resorts/oldK.jpg');}
+.beaR {background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../Images/Resorts/beaR.jpg');}
+.conR {background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../Images/Resorts/conR.jpg');}
+.boaI {background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../Images/Resorts/boaI.jpg');}
+
+.bg-img{  background: url('../Images/Resorts/showcaseR.jpg');}
+
+.endS {background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../Images/Resorts/endS.jpg');}
+.aveH {background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../Images/Resorts/aveH.jpg');}
+.cabB {background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../Images/Resorts/cabB.jpg');}
+.sapF {background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../Images/Resorts/sapF.jpg');}
+.royP {background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../Images/Resorts/royP.jpg');}
+.harR {background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../Images/Resorts/harR.jpg');}
+.porB {background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../Images/Resorts/porB.jpg');}
+
+.livL {background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../Images/Resorts/livL.jpg');}
+.aloF {background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../Images/Resorts/aloF.jpg');}
+.laqT {background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../Images/Resorts/laqT.jpg');}
+
+.rs {
+  background-size: cover;
+  background-position: center;
+}
+
+/* --------------------------------Hover---------------:hover--------------------- */
+
+.camF:hover {background: url('../Images/Resorts/camF.jpg');}
+.allM:hover {background: url('../Images/Resorts/allM.jpg');}
+.allMu:hover {background: url('../Images/Resorts/allMu.jpg');}
+.allS:hover {background: url('../Images/Resorts/allS.jpg');}
+.popC:hover {background: url('../Images/Resorts/popC.jpg');}
+.artA:hover {background: url('../Images/Resorts/artA.jpg');}
+.corS:hover {background: url('../Images/Resorts/corS.jpg');}
+.freQ:hover {background: url('../Images/Resorts/freQ.jpg');}
+.rivS:hover {background: url('../Images/Resorts/rivS.jpg');}
+.carB:hover {background: url('../Images/Resorts/carB.jpg');}
+.rivR:hover {background: url('../Images/Resorts/rivR.jpg');}
+.cabF:hover {background: url('../Images/Resorts/cabF.jpg');}
+.wilL:hover {background: url('../Images/Resorts/wilL.jpg');}
+.sarS:hover {background: url('../Images/Resorts/sarS.jpg');}
+.graF:hover {background: url('../Images/Resorts/graF.jpg');}
+.aniL:hover {background: url('../Images/Resorts/aniL.jpg');}
+.polV:hover {background: url('../Images/Resorts/polV.jpg');}
+.oldK:hover {background: url('../Images/Resorts/oldK.jpg');}
+.beaR:hover {background: url('../Images/Resorts/beaR.jpg');}
+.conR:hover {background: url('../Images/Resorts/conR.jpg');}
+.boaI:hover {background: url('../Images/Resorts/boaI.jpg');}
+
+.endS:hover {background: url('../Images/Resorts/endS.jpg');}
+.aveH:hover {background: url('../Images/Resorts/aveH.jpg');}
+.cabB:hover {background: url('../Images/Resorts/cabB.jpg');}
+.sapF:hover {background: url('../Images/Resorts/sapF.jpg');}
+.royP:hover {background: url('../Images/Resorts/royP.jpg');}
+.harR:hover {background: url('../Images/Resorts/harR.jpg');}
+.porB:hover {background: url('../Images/Resorts/porB.jpg');}
+
+.livL:hover {background: url('../Images/Resorts/livL.jpg');}
+.aloF:hover {background: url('../Images/Resorts/aloF.jpg');}
+.laqT:hover {background: url('../Images/Resorts/laqT.jpg');}
+
+.rs:hover {
+  background-size: cover;
+  background-position: center;
+}

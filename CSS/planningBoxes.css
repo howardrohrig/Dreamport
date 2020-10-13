@@ -1,0 +1,26 @@
+
+.dw {background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../Images/Dining/disneyWorld.jpg');}
+
+.us {background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../Images/Dining/universalStudios.jpg');}
+
+.ot {background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../Images/Dining/sixFlags.jpg');}
+
+.bg-img{background: url('../Images/Planning/planning.png');}
+
+.rs {
+  background-size: cover;
+  background-position: center;
+}
+
+/* --------------------------------Hover---------------:hover--------------------- */
+
+.dw:hover {background: url('../Images/Dining/disneyWorld.jpg');}
+
+.us:hover {background: url('../Images/Dining/universalStudios.jpg');}
+
+.ot:hover {background: url('../Images/Dining/sixFlags.jpg');}
+
+.rs:hover {
+  background-size: cover;
+  background-position: center;
+}

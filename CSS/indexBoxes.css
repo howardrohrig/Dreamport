@@ -1,0 +1,38 @@
+
+.mk {background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../Images/Parks/mKD1.jpg');}
+.ep {background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../Images/Parks/epDay1.jpg');}
+.hs {background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../Images/Parks/hsDay1.jpg');}
+.ak {background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../Images/Parks/akDay1.jpg');}
+.bb {background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../Images/Parks/bbDay1.jpg');}
+.tl {background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../Images/Parks/tlDay1.jpg');}
+.us {background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../Images/Parks/usDay1.jpg');}
+.ia {background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../Images/Parks/iaDay1.jpg');}
+.vb {background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../Images/Parks/vbDay1.jpg');}
+.ot {background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../Images/Parks/otDay1.jpg');}
+.hh {background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../Images/Parks/hhDay1.jpg');}
+
+.bg-img{background: url('../Images/Parks/epcotDay1.jpg');}
+
+.rs {
+  background-size: cover;
+  background-position: center;
+}
+
+/* --------------------------------Hover---------------:hover--------------------- */
+
+.mk:hover {background: url('../Images/Parks/mKD1.jpg');}
+.ep:hover {background: url('../Images/Parks/epDay1.jpg');}
+.hs:hover {background: url('../Images/Parks/hsDay1.jpg');}
+.ak:hover {background: url('../Images/Parks/akDay1.jpg');}
+.bb:hover {background: url('../Images/Parks/bbDay1.jpg');}
+.tl:hover {background: url('../Images/Parks/tlDay1.jpg');}
+.us:hover {background: url('../Images/Parks/usDay1.jpg');}
+.ia:hover {background: url('../Images/Parks/iaDay1.jpg');}
+.vb:hover {background: url('../Images/Parks/vbDay1.jpg');}
+.ot:hover {background: url('../Images/Parks/otDay1.jpg');}
+.hh:hover {background: url('../Images/Parks/hhDay1.jpg');}
+
+.rs:hover {
+  background-size: cover;
+  background-position: center;
+}
